@@ -76,18 +76,6 @@ const mainScreen =
                                 trên các trang thương mại điện tử Việt Nam"</em> <br>
                             </p>
                         </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 fadeInUpWrapper">
-                    <div class="animatedFadeInUp">
-                        <h3 class="resume-title">Experience</h3>
-                        <div class="resume-item">
-                            <h4>Java</h4>
-                            <em>Project: Bomberman, Tetris, Dictionary</em> <br>
-                            <li>Clone a old retro Bomberman Game with Java Core</li>
-                            <li>Build a Tetris Game with Java Core</li>
-                            <li>Build Java Dictionary with Java Swing</li>
-                        </div>
                         <div class="resume-item">
                             <h4>Nand2tetris I + II, COURSERA</h4>
                             <h5>Jun 2021 - Aug 2021</h5>
@@ -98,7 +86,21 @@ const mainScreen =
                                 <li>Wrote an Assembler which parse Assembly -> Machine Instructions</li>
                             </p>
                         </div>
-                        
+                    </div>
+                </div>
+                <div class="col-lg-6 fadeInUpWrapper">
+                    <div class="animatedFadeInUp">
+                        <h3 class="resume-title">Experience</h3>
+                        <div class="resume-item">
+                            <h4>Web</h4>
+                            <li>Messenger app with Firebase</li>
+                        </div>
+                        <div class="resume-item">
+                            <h4>Java</h4>
+                            <li>Clone a old retro Bomberman Game with Java Core</li>
+                            <li>Build a Tetris Game with Java Core</li>
+                            <li>Build Java Dictionary with Java Swing</li>
+                        </div>
                     </div>
                 </div>
             </div>
